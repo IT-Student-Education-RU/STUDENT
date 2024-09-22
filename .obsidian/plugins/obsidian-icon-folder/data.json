@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "OcBookmark24",
       "OcCircleSlash24",
       "OcHome16",
       "OcArchive24",
-      "OcHourglass16",
-      "OcInfinity24"
+      "OcHourglass16"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -72,5 +72,6 @@
   "Интерактивная среда/Общие материалы": "OcArchive24",
   "Добро пожаловать в STUDENT!.md": "OcHome16",
   "Полезный материал/Правила": "OcRepoPull16",
-  "Полезный материал/Библиотека/Прочее": "OcCircleSlash24"
+  "Полезный материал/Библиотека/Прочее": "OcCircleSlash24",
+  "Информационные технологии/Третий курс (в разработке)/Разработка мобильных приложений/Разработка мобильных приложений.md": "OcBookmark24"
 }
