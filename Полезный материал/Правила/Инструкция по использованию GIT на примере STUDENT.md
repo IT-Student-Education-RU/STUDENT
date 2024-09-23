@@ -27,7 +27,7 @@ tags:
 
 ![[Pasted image 20240919131738.png]]
 
-3. После запуска выберите «*Clone of repository from the Intertet..*.» и выберите вкладку URL
+3. После запуска выберите «*Clone of repository from the Internet..*.» и выберите вкладку URL
 
 ![[Pasted image 20240920093946.png]]
 
@@ -37,7 +37,7 @@ tags:
 
 ![[Pasted image 20240919133236.png]]
 
-7. Запустите Obsidian. Нажмите «Использовать папку как хранилище» и выберите скаченный STUDENT.
+7. [Скачайте](https://obsidian.md/) и запустите Obsidian. Нажмите «Использовать папку как хранилище» и выберите скаченный STUDENT.
 8. Готово!
 
 ## Обновление до новой версии
