@@ -1,6 +1,8 @@
 {
 	"nodes":[
-		{"id":"03bb5de5648b076c","type":"text","text":"```python\n# print() - печать в консоли\n# input() – запрос на ввод\nP = input(\"Введите начальную сумму: \")\nR = input(\"Введите процент по вкладу: \")\nT = input(\"Введите количество лет: \")\n\nprint($\"{(P * R * T) / 100}\") #(P * R * T) / 100\n\n#Ввод: 250000, 36, 2 \n\n# Вывод: 180000.0\n```","x":-193,"y":-221,"width":413,"height":281}
+		{"id":"393b540695e2ceb1","type":"file","file":"Мануал по использованию STUDENT.md","x":-1160,"y":-680,"width":580,"height":540},
+		{"id":"9e9ed236e8b8baa8","type":"text","text":"```python\ndef oper(a, b):\n    %%addition%% = a + b\n    %%subtraction%% = a - b\n    multiplication = a * b\n    %%division%% = a / b %%if b != 0 else None %%\n    \n    return addition, subtraction, multiplication, division\n\nresult = oper(10, 2)\nprint(result)\n\ninput()\n```","x":60,"y":-680,"width":420,"height":540},
+		{"id":"eef48c2289ad497d","x":-520,"y":-340,"width":400,"height":400,"type":"file","file":"Интерактивная среда/Общие материалы/Материал группы 206/Мусор/загруженное.jfif"}
 	],
 	"edges":[]
 }
