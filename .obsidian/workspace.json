@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2e0750b6c3097734",
+        "id": "ca95c99e0e85412f",
         "type": "tabs",
         "children": [
           {
-            "id": "58ec5c91e788cfbc",
+            "id": "bb09522b1f66711a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -180,7 +180,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "58ec5c91e788cfbc",
+  "active": "bb09522b1f66711a",
   "lastOpenFiles": [
     "Полезный материал/Успеваемость/Группа 206/Бубликов Максим, 206.md",
     "Интерактивная среда/Общие материалы/Материал группы 206/Практические задания/парам функции сапунов.py",
