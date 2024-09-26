@@ -1,8 +1,13 @@
 {
 	"nodes":[
+		{"id":"d33dab8c63115246","type":"text","text":"","x":-465,"y":-119,"width":250,"height":60},
+		{"id":"47f7c9535edac955","type":"text","text":"2323","x":-178,"y":42,"width":250,"height":60},
 		{"id":"393b540695e2ceb1","type":"file","file":"Мануал по использованию STUDENT.md","x":-1160,"y":-680,"width":580,"height":540},
 		{"id":"9e9ed236e8b8baa8","type":"text","text":"```python\ndef oper(a, b):\n    %%addition%% = a + b\n    %%subtraction%% = a - b\n    multiplication = a * b\n    %%division%% = a / b %%if b != 0 else None %%\n    \n    return addition, subtraction, multiplication, division\n\nresult = oper(10, 2)\nprint(result)\n\ninput()\n```","x":60,"y":-680,"width":420,"height":540},
-		{"id":"eef48c2289ad497d","x":-520,"y":-340,"width":400,"height":400,"type":"file","file":"Интерактивная среда/Общие материалы/Материал группы 206/Мусор/загруженное.jfif"}
+		{"id":"eef48c2289ad497d","type":"file","file":"Интерактивная среда/Общие материалы/Материал группы 206/Мусор/загруженное.jfif","x":-520,"y":-340,"width":400,"height":400},
+		{"id":"d2512350b5d32c90","type":"text","text":"[eq]2322","x":-392,"y":76,"width":250,"height":60},
+		{"id":"250d0250736bcc5f","type":"text","text":"","x":-560,"y":-600,"width":418,"height":60},
+		{"id":"99c9e130ade8ad5d","type":"text","text":"ккпукпук","x":-340,"y":-740,"width":250,"height":60}
 	],
 	"edges":[]
 }

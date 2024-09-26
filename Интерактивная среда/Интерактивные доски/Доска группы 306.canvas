@@ -1,19 +1,18 @@
 {
 	"nodes":[
-		{"id":"2a5eac751a756bbf","type":"group","x":-460,"y":-2420,"width":640,"height":440,"color":"#51a9a3","label":"Практическое задание"},
-		{"id":"347a38e456de99da","type":"group","x":-299,"y":-1800,"width":400,"height":418,"color":"4","label":"Делал"},
-		{"id":"8fdb574a2fbe795e","type":"text","text":"Задание. Работа со строками","x":-116,"y":-2176,"width":250,"height":60,"color":"3"},
-		{"id":"15eeb8c8ce5da861","type":"text","text":"Имеет индекс 0","x":-400,"y":-2176,"width":250,"height":60,"color":"4"},
-		{"id":"59c4497eda9781a8","type":"text","text":"Абдулбеков Амир","x":-400,"y":-2380,"width":250,"height":60,"color":"6"},
-		{"id":"5998e357e5c47aac","type":"text","text":"Типы данных в Python","x":-116,"y":-2320,"width":250,"height":81,"color":"2"},
-		{"id":"38a18a550e5dca22","type":"text","text":"Задание. Условная конструкция if с дополнительными блоками","x":-200,"y":-1760,"width":250,"height":60},
-		{"id":"4747c5ae025a1873","x":-200,"y":-1680,"width":250,"height":60,"type":"text","text":"Задание. Тернарные операторы"},
-		{"id":"db423e4e2b52bd3e","x":-200,"y":-1600,"width":250,"height":60,"type":"text","text":"Задание. Методы списка"},
-		{"id":"6c02720ebe928162","x":-200,"y":-1520,"width":250,"height":60,"type":"text","text":"Задание. Словари"}
+		{"id":"4c30966d2b7298af","x":-580,"y":-520,"width":980,"height":580,"type":"group","label":"Добротин"},
+		{"id":"69d987eb36ba34cd","x":-580,"y":140,"width":980,"height":422,"type":"group","label":"Заставнюк"},
+		{"id":"1e3720f864148f16","x":-560,"y":-244,"width":250,"height":132,"color":"1","type":"text","text":"Ошибка. При вводе отрицательного числа выводит сообщение \"Ошибка: Возраст должен содержать только числа\""},
+		{"id":"44840398992abf9e","x":-369,"y":-480,"width":250,"height":121,"color":"4","type":"text","text":"Должен содержать сообщение: \"Ошибка: Возраст не должен быть отрицательным или равен нулю\""},
+		{"id":"519e9b04cb32f7e3","x":-51,"y":-241,"width":305,"height":258,"type":"file","file":"Интерактивная среда/Общие материалы/Материал группы 306/Практические задания/Добротин БогданСоздание собственных исключений.py"},
+		{"id":"04e924b15470496e","x":101,"y":299,"width":250,"height":108,"color":"1","type":"text","text":"Вывод: \"Ошибка: Возраст должен состоять только из цифр.\""},
+		{"id":"e07789cb97278a5e","x":-220,"y":213,"width":247,"height":179,"type":"file","file":"Интерактивная среда/Общие материалы/Материал группы 306/Практические задания/Заставнюк Создание собственных исключений.py"},
+		{"id":"da852527ad56f6c4","x":-560,"y":258,"width":250,"height":149,"type":"text","text":"Ввод: \n```\nИмя: Шарик\nВозраст: 2.5\n```"}
 	],
 	"edges":[
-		{"id":"01fc69d685b8866a","fromNode":"15eeb8c8ce5da861","fromSide":"right","toNode":"8fdb574a2fbe795e","toSide":"left"},
-		{"id":"db35f50ce0f294b8","fromNode":"5998e357e5c47aac","fromSide":"bottom","toNode":"8fdb574a2fbe795e","toSide":"top"},
-		{"id":"01079fe8276af92b","fromNode":"59c4497eda9781a8","fromSide":"bottom","toNode":"5998e357e5c47aac","toSide":"left"}
+		{"id":"c540999a8b7fb3c5","fromNode":"519e9b04cb32f7e3","fromSide":"left","toNode":"1e3720f864148f16","toSide":"right"},
+		{"id":"e390f273f7b384df","fromNode":"1e3720f864148f16","fromSide":"top","toNode":"44840398992abf9e","toSide":"bottom","color":"4"},
+		{"id":"98266bee584dc41a","fromNode":"da852527ad56f6c4","fromSide":"right","toNode":"e07789cb97278a5e","toSide":"left"},
+		{"id":"b22c4e2aebd03bea","fromNode":"e07789cb97278a5e","fromSide":"right","toNode":"04e924b15470496e","toSide":"left","color":"1"}
 	]
 }
