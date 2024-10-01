@@ -113,6 +113,11 @@ print(words)    # ['blue: синий', 'green: зеленый']
 ```
 
 ---
+## Практическое задание
+
+![[Задание. Самостоятельная работа]]
+
+---
 ## Ссылки
 
 1. [List comprehension](https://metanit.com/python/tutorial/3.6.php)

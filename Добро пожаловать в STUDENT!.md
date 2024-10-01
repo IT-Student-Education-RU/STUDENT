@@ -18,8 +18,8 @@ dateformat(date, "DD") as Дата,
 Лекция, 
 Задание, Дежурные
 from "Полезный материал/Расписание"
-WHERE file.day >= date(today) - dur(2 day)
-sort Дата, startTime asc
+WHERE file.day >= date(today) - dur(3 day) and file.day <= date(today) + dur(3 day)
+sort date, startTime asc
 ```
 
 ---
