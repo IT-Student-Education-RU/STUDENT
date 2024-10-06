@@ -1,10 +1,13 @@
 {
 	"nodes":[
-		{"id":"988389d971ecb533","type":"text","text":"Лекция на сегодня","x":-120,"y":-840,"width":250,"height":60},
-		{"id":"39a5fe99c8148d60","type":"file","file":"Информационные технологии/Третий курс (в разработке)/Компьютерные сети/Лекции/Основы компьютерных сетей.md","x":-680,"y":-1010,"width":400,"height":400},
-		{"id":"ed4babb69fa36463","x":-960,"y":-500,"width":840,"height":368,"type":"file","file":"Интерактивная среда/Общие материалы/Материал группы 306/Sravnenie-protokolov-_1_.jpg"}
+		{"id":"4e084f0141fdf8b9","type":"group","x":-40,"y":-500,"width":400,"height":400,"label":"test_degree"},
+		{"id":"aad16f35564fd621","type":"group","x":-220,"y":-860,"width":476,"height":240,"label":"dergee_programm"},
+		{"id":"3ac54aa2a7c25753","type":"file","file":"Информационные технологии/Третий курс (в разработке)/Поддержка и тестирование программных модулей/Лекции/Тестирование в Python. Что такое unittest.md","x":-780,"y":-880,"width":400,"height":400},
+		{"id":"c8c2cbf69e39312b","type":"text","text":"```python\ndef degree(a, b)\n\t...Ваш код...\n```","x":-220,"y":-780,"width":476,"height":80},
+		{"id":"6fceeb644cef2b84","type":"text","text":"```python\nimport degree_programm\nimport unittest\n\nclass TestDegreeMethods(unittest.TestCase):\n\n\tdef test_one(self):\n\tself.assertEqual(degree_programm.degree(2, 3), 8)\n\n```","x":-40,"y":-460,"width":400,"height":360}
 	],
 	"edges":[
-		{"id":"b8664a4338b3befe","fromNode":"988389d971ecb533","fromSide":"left","toNode":"39a5fe99c8148d60","toSide":"right"}
+		{"id":"0a9311eb30ee66c1","fromNode":"3ac54aa2a7c25753","fromSide":"right","toNode":"aad16f35564fd621","toSide":"left"},
+		{"id":"364ccc43190a8c02","fromNode":"aad16f35564fd621","fromSide":"bottom","toNode":"4e084f0141fdf8b9","toSide":"top"}
 	]
 }

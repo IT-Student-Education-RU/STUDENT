@@ -21,5 +21,8 @@
   "foldIndent": true,
   "useTab": true,
   "propertiesInDocument": "hidden",
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "spellcheckDictionary": [
+    "даннчвых"
+  ]
 }
