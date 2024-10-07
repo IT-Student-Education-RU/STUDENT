@@ -57,7 +57,7 @@ dateformat(date, "DD") as Дата,
 Лекция, 
 Задание, Дежурные
 from "Полезный материал/Расписание"
-WHERE file.day >= date(today) - dur(3 day) and file.day <= date(today) + dur(3 day)
+WHERE file.day >= date(today) - dur(2 day) and file.day <= date(today) + dur(2 day)
 sort date, startTime asc
 ```
 
@@ -76,6 +76,7 @@ sort date, startTime asc
 
 - [[Доска группы 306.canvas]]
 - [[Доска группы 206.canvas]]
+- [[Общая доска.canvas|Общая доска]]
 
 ---
 # База данных
