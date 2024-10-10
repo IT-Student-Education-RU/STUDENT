@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 223.5,
+    "collapsed": true
   },
   "right": {
     "id": "5fc1192ce22ea31e",
@@ -181,7 +182,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0cbac823ee65fd0f",
+  "active": "d60a2b9c335aeff8",
   "lastOpenFiles": [
     "Добро пожаловать в STUDENT!.md",
     "STUDENT/Полезный материал/Правила/Правила по написанию научных работ.md",
