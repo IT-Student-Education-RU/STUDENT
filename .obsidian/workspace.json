@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
+
         "id": "0b574feaf5f395fa",
         "type": "tabs",
         "children": [
           {
             "id": "696f6bd018ebc5a5",
+
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -182,7 +184,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "696f6bd018ebc5a5",
+  "active": "2dce972683a8dd02",
   "lastOpenFiles": [
     "Добро пожаловать в STUDENT!.md",
     "STUDENT/Полезный материал/Правила/Правила по написанию научных работ.md",
