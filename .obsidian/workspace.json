@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "52b3f6275e395155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Добро пожаловать в STUDENT!.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Добро пожаловать в STUDENT!.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Добро пожаловать в STUDENT!.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Добро пожаловать в STUDENT!.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -183,9 +196,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0d008cab9bcb33dc",
+  "active": "52b3f6275e395155",
   "lastOpenFiles": [
     "Добро пожаловать в STUDENT!.md",
+    "conflict-files-obsidian-git.md",
     "STUDENT/Полезный материал/Правила/Правила по написанию научных работ.md",
     "STUDENT/Полезный материал/Правила/Жирный и курсивный шрифт.md",
     "STUDENT/Полезный материал/Правила",
@@ -226,7 +240,6 @@
     "STUDENT/Система/Шаблоны/Лекция.md",
     "STUDENT/Система/Шаблоны/Краткий синопсис к предмету.md",
     "STUDENT/Система/Шаблоны/Задание.md",
-    "STUDENT/Система/Шаблоны/Задание. Самостоятельная работа.md",
     "STUDENT/Система/Вложенные файлы/Эволюция_компьютерных_сетей.png",
     "STUDENT/Система/Вложенные файлы/Шпаргалка_по_SQL.png",
     "STUDENT/Система/Вложенные файлы/Шпаргалка_по_Python2.png",
