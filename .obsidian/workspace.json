@@ -20,17 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "d351801611e9ea74",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
