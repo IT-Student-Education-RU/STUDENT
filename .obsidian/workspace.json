@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d265567ef3843e44",
+        "id": "b7d0ac72367aa7f2",
         "type": "tabs",
         "children": [
           {
-            "id": "d8d53099148f56ef",
+            "id": "03fdd92e221510db",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -164,7 +164,7 @@
       "command-palette:Открыть палитру команд": true
     }
   },
-  "active": "d8d53099148f56ef",
+  "active": "03fdd92e221510db",
   "lastOpenFiles": [
     "Добро пожаловать в STUDENT!.md"
   ]
