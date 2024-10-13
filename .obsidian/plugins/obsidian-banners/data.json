@@ -1,9 +1,9 @@
 {
   "height": 250,
   "style": "solid",
-  "showInInternalEmbed": true,
+  "showInInternalEmbed": false,
   "internalEmbedHeight": null,
-  "showInPreviewEmbed": true,
+  "showInPreviewEmbed": false,
   "previewEmbedHeight": null,
   "frontmatterField": null,
   "bannerDragModifier": "shift",
@@ -12,7 +12,7 @@
   "iconVerticalAlignment": "above",
   "iconVerticalTransform": null,
   "useTwemoji": true,
-  "showPreviewInLocalModal": true,
+  "showPreviewInLocalModal": false,
   "localSuggestionsLimit": null,
   "bannersFolder": "Система/Вложенные файлы/Баннеры",
   "allowMobileDrag": false
