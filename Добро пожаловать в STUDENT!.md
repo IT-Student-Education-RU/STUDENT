@@ -1,7 +1,4 @@
 ---
-banner: "![[home_baner_black.png]]"
----
----
 cssclasses:
   - dashboard
 banner: "![[home_baner_black.png]]"
