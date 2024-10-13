@@ -12,7 +12,7 @@
   "iconVerticalAlignment": "above",
   "iconVerticalTransform": null,
   "useTwemoji": true,
-  "showPreviewInLocalModal": true,
+  "showPreviewInLocalModal": false,
   "localSuggestionsLimit": null,
   "bannersFolder": "Система/Вложенные файлы/Баннеры",
   "allowMobileDrag": false
