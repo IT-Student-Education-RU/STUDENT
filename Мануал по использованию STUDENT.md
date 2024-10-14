@@ -129,21 +129,25 @@ tags:
 
 #### Google Drive
 
-Если вы решили использовать Google Drive, воспользуйтесь этой [ссылкой](https://drive.google.com/file/d/14WodVUx4B-Qpbbh0pLe_zGAksfP0v7tv/view?usp=drive_link) (https://drive.google.com/file/d/14WodVUx4B-Qpbbh0pLe_zGAksfP0v7tv/view?usp=drive_link).
+Если вы решили использовать Google Drive, воспользуйтесь этой [ссылкой](https://drive.google.com/file/d/1IKWOCnlLqhLfvL8h9CXGmJuPclJ3Varz/view?usp=drive_link) https://drive.google.com/file/d/1IKWOCnlLqhLfvL8h9CXGmJuPclJ3Varz/view?usp=drive_link).
 
 Или сканируйте qr-код:
 
 ![[Pasted image 20241003215357.png|300]]
 
-Такой способ предназначен сугубо для личного использования и не предусматривает постоянную синхронизацию с хранилищем. Все инструкции по установке вы найдете внутри скачанного архива.
+Все инструкции по установке и необходимые установщики, вы найдете внутри скачанного архива.
 
 #### GitHub
 
-Если у вас есть GitHub, то вы можете скачать STUDENT на моей [странице](https://github.com/Apo1lyon/STUDENT) для своего личного использования. Если вы работаете в группе, [сюда](https://github.com/IT-Student-Education-RU/STUDENT)
+Если у вас есть GitHub, то вы можете скачать STUDENT на моей [странице](https://github.com/Apo1lyon/STUDENT) для своего личного использования. Если вы работаете в группе, учебном заведении и т.д., то скачайте синхронизированную [версию](https://github.com/IT-Student-Education-RU/STUDENT)
 
-Или воспользуйтесь qr-кодом:
+Qr-код для личного использования:
 
 ![[e26cd9cb91ac4d25f688d780366432ef.png|300]]
+
+Qr-код для группы:
+
+![[qr_code_grup.png|300]]
 
 Если вы не пользовались Git раньше, то следуйте этой инструкции:
 
