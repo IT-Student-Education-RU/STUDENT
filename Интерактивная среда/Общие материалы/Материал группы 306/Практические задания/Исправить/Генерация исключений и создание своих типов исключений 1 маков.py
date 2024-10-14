@@ -6,11 +6,12 @@ class InvalidNameError(AnimalError):
     """Исключение для неверного имени животного."""
     def __init__(self, name):
         super().__init__(f"Имя '{name}' не должно содержать цифры.")
-
+        input()
 class InvalidAgeError(AnimalError):
     """Исключение для неверного возраста животного."""
     def __init__(self, age):
         super().__init__(f"Возраст '{age}' должен быть числом больше нуля.")
+        input() 
 
 class Animal:
     def __init__(self, name, age):
@@ -30,12 +31,17 @@ class Animal:
 def main():
     name = input("Введите имя животного: ")
     age = int(input("Введите возраст животного: "))
+    input()
 
     try:
         animal = Animal(name, age)
         print(f"Животное создано: {animal.name}, {animal.age} лет.")
+        input()
+
     except AnimalError as e:
         print(e)
+        input()
 
 if __name__ == "__main__":
     main()
+    input()
