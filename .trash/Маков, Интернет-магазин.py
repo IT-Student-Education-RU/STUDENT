@@ -37,3 +37,5 @@ user.set_firstname("Петр")
 user.set_email("petr@example.com")
 
 print(user.firstname, user.email)  # Вывод: Петр petr@example.com
+
+input()

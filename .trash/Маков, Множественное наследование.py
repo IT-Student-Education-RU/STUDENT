@@ -54,3 +54,4 @@ dolphin = Dolphin("Flipper", "Click", 300)
 print(dog.info())        # Информация о собаке
 print(penguin.info())    # Информация о пингвине
 print(dolphin.info())     # Информация о дельфине
+input()

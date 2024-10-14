@@ -27,3 +27,4 @@ bird = Bird("Tweety", 1)
 print(dog.bark())  # Вывод: Buddy says Woof!
 print(cat.meow())  # Вывод: Whiskers says Meow!
 print(bird.chirp())  # Вывод: Tweety says Chirp!
+input()
