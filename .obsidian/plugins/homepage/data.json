@@ -8,14 +8,14 @@
       "openMode": "Replace all open notes",
       "manualOpenMode": "Keep open notes",
       "view": "Default view",
-      "revertView": true,
+      "revertView": false,
       "openWhenEmpty": true,
       "refreshDataview": false,
-      "autoCreate": true,
+      "autoCreate": false,
       "autoScroll": false,
       "pin": true,
       "commands": [],
-      "alwaysApply": true,
+      "alwaysApply": false,
       "hideReleaseNotes": true
     }
   },
