@@ -1,8 +1,8 @@
 [
   "homepage",
   "obsidian-icon-folder",
-  "obsidian-banners",
   "dataview",
   "obsidian-full-calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-banners"
 ]
