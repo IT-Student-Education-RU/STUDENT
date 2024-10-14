@@ -1,9 +1,3 @@
-.dashboard {
-    padding-left: 25px !important;
-    padding-right: 25px !important;
-    padding-top: 20px !important;
-}
-
 .dashboard .markdown-preview-section {
     max-width: 100%;
 }
@@ -42,4 +36,12 @@
 
 ul.contains-task-list.plugin-tasks-query-result {
     row-gap: normal;
+}
+
+.banner-image {
+    max-width: 100%;
+    max-height: 100px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
 }
