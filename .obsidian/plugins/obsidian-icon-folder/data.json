@@ -1,6 +1,6 @@
 {
   "settings": {
-    "migrated": 5,
+    "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 13,
     "emojiStyle": "native",
@@ -30,7 +30,8 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "debugMode": false
+    "debugMode": false,
+    "lucideIconPackType": "native"
   },
   "Информационные технологии": "OcCodespaces24",
   "Полезный материал": "OcArchive24",
@@ -70,7 +71,6 @@
   "Интерактивная среда/Интерактивные доски": "OcMortarBoard16",
   "Мануал по использованию STUDENT.md": "OcHourglass16",
   "Интерактивная среда/Общие материалы": "OcArchive24",
-  "Добро пожаловать в STUDENT!.md": "OcHome16",
   "Полезный материал/Правила": "OcRepoPull16",
   "Полезный материал/Библиотека/Прочее": "OcCircleSlash24",
   "Информационные технологии/Третий курс (в разработке)/Разработка мобильных приложений/Разработка мобильных приложений.md": "OcBookmark24",
