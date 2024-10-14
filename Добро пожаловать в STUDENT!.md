@@ -1,13 +1,6 @@
 ---
 banner: "![[home_baner_black.png]]"
 ---
----
-%%---
-cssclasses:
-  - dashboard
-banner: "![[home_baner_black.png]]"
-banner_y: 0.504
----%%
 *Примечание:* Если баннер дублируется, то обратитесь [[Мануал по использованию STUDENT#Дублирование баннера|сюда]]
 # Введение
 
