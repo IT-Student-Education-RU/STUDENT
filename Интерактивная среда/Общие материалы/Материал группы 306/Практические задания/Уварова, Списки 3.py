@@ -28,3 +28,5 @@ reversed_list = original_list[::-1]
 # Вывод результатов на консоль
 print("Начальный список:", original_list)
 print("Список в обратном порядке:", reversed_list)
+
+input()

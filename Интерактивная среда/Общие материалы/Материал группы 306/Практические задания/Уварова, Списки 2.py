@@ -37,3 +37,5 @@ result_list = remove_duplicates(initial_list)
 # Вывод результата
 print("Начальный список:", initial_list)
 print("После удаления дублей:", result_list)
+
+input()

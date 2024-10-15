@@ -21,3 +21,5 @@ result = dot_product(first_vector, second_vector)
 print("Первый вектор:", first_vector)
 print("Второй вектор:", second_vector)
 print("Скалярное произведение:", result)
+
+input()

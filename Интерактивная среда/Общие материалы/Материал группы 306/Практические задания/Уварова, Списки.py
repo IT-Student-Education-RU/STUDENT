@@ -35,3 +35,5 @@ for row in mat:
 for row in mat:
     for element in row:
         print(element)
+
+input()
