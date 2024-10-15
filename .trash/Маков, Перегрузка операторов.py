@@ -30,3 +30,5 @@ difference_vector = v1 - v2  # Вычитание векторов
 
 print("Сумма:", sum_vector)  # Вывод: Vector(4, 6)
 print("Разность:", difference_vector)  # Вывод: Vector(-2, -2)
+
+input()

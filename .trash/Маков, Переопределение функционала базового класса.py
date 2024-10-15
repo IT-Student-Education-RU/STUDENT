@@ -38,3 +38,5 @@ print(cat.make_sound())        # Вывод: Мяу!
 print(cat.catch_mice())        # Вывод: Кошка ловит мышей!
 print(cow.make_sound())        # Вывод: Му!
 print(cow.produce_milk())      # Вывод: Корова дает молоко!
+
+input()

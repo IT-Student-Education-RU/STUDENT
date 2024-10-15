@@ -36,6 +36,8 @@ def main():
         print(f"Животное создано: {animal.name}, {animal.age} лет.")
     except AnimalError as e:
         print(e)
+        input()
 
 if __name__ == "__main__":
     main()
+    input()

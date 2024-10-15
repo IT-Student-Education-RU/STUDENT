@@ -12,10 +12,12 @@ def sum_of_integers(numbers):
 # Пример использования функции
 try:
     # Создаем список целых чисел
-    integer_list = [1, 3, 5, 7]
+    integer_list = [1, -1, 3, 5, 7]
     # Вызываем функцию
     result = sum_of_integers(integer_list)
     print("Сумма чисел:", result)
 except ValueError as e:
     # Обрабатываем исключение и выводим сообщение об ошибке
     print(e)
+
+input()
