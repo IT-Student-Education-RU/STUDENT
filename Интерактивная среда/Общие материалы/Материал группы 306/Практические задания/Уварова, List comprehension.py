@@ -12,3 +12,5 @@ my_dict = {
 filtered_keys = [key for key in my_dict.keys() if len(key) > 3]
 
 print(filtered_keys)  # ['three', 'four', 'seven']
+
+input()
