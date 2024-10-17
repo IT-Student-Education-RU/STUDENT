@@ -120,6 +120,7 @@ sort date, startTime, Группа asc
 	- [CS50. Интерактивная игра по изучению Git](https://cs50.harvard.edu/x/2024/);
 	- [Wargames: Bandit. Обучение работе с Git](https://overthewire.org/wargames/bandit/);
 	- [Курс по изучению алгоритмизации](https://www.khanacademy.org/computing/computer-science/algorithms).
+	- [Учебник по компьютерным сетям](https://www.geeksforgeeks.org/computer-network-tutorials/?ref=shm)
 
 ---
 # Заметки
