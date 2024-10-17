@@ -11,3 +11,5 @@ if (a > 15001) and (a <= 250):
 if (a > 25000) :
     b = a * 0.30
     print(a - b)
+
+input()
