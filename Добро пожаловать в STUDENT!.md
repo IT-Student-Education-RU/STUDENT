@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - dashboard
-banner: "![[home_baner_black.png]]"
 ---
 # Введение
 
