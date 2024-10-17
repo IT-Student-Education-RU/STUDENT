@@ -2,6 +2,9 @@
 cssclasses:
   - dashboard
 ---
+---
+
+![[home_baner_black.png]]
 # Введение
 
 ### Что это такое?
