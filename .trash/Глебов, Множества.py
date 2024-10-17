@@ -26,3 +26,5 @@ print("Только студенты:", only_students)
 # Люди, которые либо только учатся, либо только работают, но не одновременно
 only_one_group = students.symmetric_difference(employees)
 print("Люди только из одной группы:", only_one_group)
+
+input()

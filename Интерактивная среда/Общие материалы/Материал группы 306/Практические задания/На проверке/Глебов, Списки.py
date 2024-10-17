@@ -30,3 +30,5 @@ for i in range(len(mat)):
 for i in range(len(mat)):
     for j in range(len(mat[i])):
         print(f"mat[{i}][{j}]: {mat[i][j]}")
+
+input()
