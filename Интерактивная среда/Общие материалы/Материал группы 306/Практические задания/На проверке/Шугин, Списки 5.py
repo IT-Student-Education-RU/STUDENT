@@ -18,3 +18,4 @@ print("Первый вектор:", first_vector)
 print("Второй вектор:", second_vector)
 print("Скалярное произведение:", result)
 
+input()

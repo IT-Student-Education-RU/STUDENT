@@ -85,3 +85,5 @@ print(penguin.info())  # Вывод: Animal: Pingu, Sound: Squawk!, Wingspan: 90
 print(dolphin.make_sound())  # Вывод: Click!
 print(dolphin.swim())  # Вывод: Dolly is swimming!
 print(dolphin.info())  # Вывод: Animal: Dolly, Sound: Click!, Max Depth: 300 m
+
+input()
