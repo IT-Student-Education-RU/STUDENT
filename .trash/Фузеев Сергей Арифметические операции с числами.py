@@ -1,5 +1,5 @@
 def calculate_interest(principal, rate, time):
-    return (principal * rate * time) / 100
+    return print((principal * rate * time) / 100)
 try:
     P = float(input("Начальная сумма вклада: "))
     R = float(input("Начисленные проценты: "))
@@ -7,3 +7,5 @@ try:
     interest = calculate_interest(P, R, T)
 except ValueError:
     print("Пожалуйста, введите корректные числовые значения.")
+
+input()
