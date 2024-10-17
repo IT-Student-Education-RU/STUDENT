@@ -5,7 +5,7 @@ if (a < 5000) :
 if (a > 5001) and (a < 15000):
     b = a * 0.12
     print(a - b)
-if (a > 15001) and (a <= 250):
+if (a > 15001) and (a <= 25000):
     b = a * 0.20
     print(a - b)
 if (a > 25000) :
