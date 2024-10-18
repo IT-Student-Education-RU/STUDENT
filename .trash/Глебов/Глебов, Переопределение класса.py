@@ -27,3 +27,5 @@ print(dog.bring_ball())  # Вывод: Собака приносит мяч.
 cat = Cat()
 print(cat.make_sound())  # Вывод: Мяу!
 print(cat.catching_mice())  # Вывод: Кошка ловит мышей.
+
+input()

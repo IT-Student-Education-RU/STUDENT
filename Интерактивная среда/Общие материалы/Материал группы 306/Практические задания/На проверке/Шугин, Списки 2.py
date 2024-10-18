@@ -23,3 +23,5 @@ unique_list.sort()
 # Выводим результаты
 print("Начальный список:", initial_list)
 print("После удаления дублей:", unique_list)
+
+input()

@@ -25,3 +25,5 @@ print(actor1)
 print(actor2)
 print(actor3)
 print(actor4)
+
+input()
