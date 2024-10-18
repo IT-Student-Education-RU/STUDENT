@@ -10,5 +10,3 @@ result1 = sum(15, 20)
 print(result1)
 result2 = sum(15, -20)
 print(result2)
-
-input()

@@ -28,5 +28,3 @@ people = [
 for person in people:
     print("Name:", person["name"])
     print("Last language:", person["languages"][-1])  # Получаем последний язык
-
-input()

@@ -21,4 +21,3 @@ def say_bye():
 
 say_hi()
 say_bye()
-input()

@@ -34,5 +34,3 @@ def create_animal():
 
 # Запуск функции для создания животного
 create_animal()
-
-input()

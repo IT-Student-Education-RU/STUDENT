@@ -7,5 +7,3 @@ def outer():
     inner()
     print(p)
 outer()
-
-input()

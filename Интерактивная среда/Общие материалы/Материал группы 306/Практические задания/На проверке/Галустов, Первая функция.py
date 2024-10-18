@@ -7,5 +7,3 @@ def send_invitation_email():
 
 # Вызываем функцию
 send_invitation_email()
-
-input()

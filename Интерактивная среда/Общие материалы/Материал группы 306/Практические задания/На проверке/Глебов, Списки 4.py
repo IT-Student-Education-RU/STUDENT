@@ -30,5 +30,3 @@ result = sum_lists(first_list, second_list)
 print("Первый список:", first_list)
 print("Второй список:", second_list)
 print("Результат сложения:", result)
-
-input()

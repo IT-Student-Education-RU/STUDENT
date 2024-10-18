@@ -118,5 +118,3 @@ print(penguin.info())  # Вывод: Animal: Pingu, Wingspan: 90 cm
 print(dolphin.make_sound())  # Вывод: Click!
 print(dolphin.swim())  # Вывод: Dolly is swimming!
 print(dolphin.info())  # Вывод: Animal: Dolly, Max Depth: 300 m
-
-input()

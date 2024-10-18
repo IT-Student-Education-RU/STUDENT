@@ -10,5 +10,3 @@ birthday = input("Введите вашу дату рождения (дд/мм):
 message = "С днём рождения! Спасибо за информацию." if birthday == today else "Спасибо за информацию."
 
 print(message)
-
-input()

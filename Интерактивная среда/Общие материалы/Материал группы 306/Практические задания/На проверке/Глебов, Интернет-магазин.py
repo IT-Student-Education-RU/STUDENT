@@ -54,5 +54,3 @@ print("Trying to change address to empty string:", user.change_address(""))  # �
 
 # Проверка финального состояния
 print(user)
-
-input()
