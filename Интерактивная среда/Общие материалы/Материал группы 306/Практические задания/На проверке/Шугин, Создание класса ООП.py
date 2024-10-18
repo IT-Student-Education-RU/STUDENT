@@ -81,3 +81,5 @@ print(animal1)
 print(animal2)
 print(house1)
 print(house2)
+
+input()

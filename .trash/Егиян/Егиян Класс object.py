@@ -12,3 +12,5 @@ class person:
 kir = person("карееееннннннн", 1845665665757555586786855654344344354334534545565565646)
 print(kir)
 kir.display_info()
+
+input()

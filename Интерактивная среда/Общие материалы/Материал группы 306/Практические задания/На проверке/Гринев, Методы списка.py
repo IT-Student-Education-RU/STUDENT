@@ -9,3 +9,5 @@ my_darling_list.sort()
 
 # Выводим на экран список
 print(my_darling_list)
+
+input()
